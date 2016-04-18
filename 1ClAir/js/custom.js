@@ -35,11 +35,6 @@ jQuery(document).ready(function($) {
 		}
 	});
 		
-$('.video-play-icon').on('click',function(){
-    
-    $(this).hide();
-    
-});
 	/* --------------------------------------------
 		Load More
 	-------------------------------------------- */
