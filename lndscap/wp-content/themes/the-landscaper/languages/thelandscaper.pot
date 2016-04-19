@@ -1,0 +1,1204 @@
+# Copyright (C) 2016 QreativeThemes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Landscaper 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-03-31 10:46:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: inc/widgets/widget-testimonials.php:181
+msgid "1"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:182
+msgid "2"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:183
+msgid "3"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:184
+msgid "4"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "Nothing was found here, try a search below"
+msgstr ""
+
+#: comments.php:31 comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:97
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:98
+msgid "Services Menu"
+msgstr ""
+
+#: functions.php:99
+msgid "Footer Menu"
+msgstr ""
+
+#: headers/header-default.php:34 headers/header-wide.php:30
+msgid "MENU"
+msgstr ""
+
+#: inc/custom-comments.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: inc/custom-comments.php:18 inc/custom-comments.php:41
+msgid "(Edit)"
+msgstr ""
+
+#: inc/custom-comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-comments.php:39
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "All the Theme Options"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Logo settings."
+msgstr ""
+
+#: inc/customizer.php:67 inc/theme-sidebars.php:23
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "All the Header settings"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "All the Navigation settings"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Main Title Area"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "All the Breadcrumbs settings"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Layout &amp; Colors"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Theme Layout and Color Settings"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Blog Post Settings"
+msgstr ""
+
+#: inc/customizer.php:114 inc/theme-filters.php:238
+msgid "Gallery"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Gallery Detail Pages Settings"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "WooCommerce Shop Settings"
+msgstr ""
+
+#: inc/customizer.php:132 inc/theme-sidebars.php:61
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Theme Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:140 inc/customizer.php:1479
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid ""
+"It is recommended to type custom CSS in a text editor and then paste it "
+"into the field below"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Theme Logo"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Recommended height is not higher than 90 pixels"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Theme Logo Retina (2x)"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "The logo size 2x, for screens with high DPI."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Top Margin Logo"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "In pixels"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Show or hide the topbar"
+msgstr ""
+
+#: inc/customizer.php:234 inc/customizer.php:716 inc/customizer.php:931
+#: inc/customizer.php:1124
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:235 inc/customizer.php:717 inc/customizer.php:932
+#: inc/customizer.php:1125
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Topbar Text Color"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Sticky or Static Navigation"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Static"
+msgstr ""
+
+#: inc/customizer.php:300 inc/widgets/widget-recent-posts-block.php:116
+#: loop/blog/grid.php:27
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Default or Wide Navigation"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:323 inc/customizer.php:741
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Navigation Background Color"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid "Navigation Left Part Background Color"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Mobile Navigation Background Color"
+msgstr ""
+
+#: inc/customizer.php:401
+msgid "Navigation Text Color"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Mobile Navigation Text Color"
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Mobile Submnu BG Color"
+msgstr ""
+
+#: inc/customizer.php:479
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid "Mobile Submenu Text Color"
+msgstr ""
+
+#: inc/customizer.php:520
+msgid "Page title Text Color"
+msgstr ""
+
+#: inc/customizer.php:540
+msgid "Sub Page title Text Color"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Align Title & Subtitle"
+msgstr ""
+
+#: inc/customizer.php:564 inc/customizer.php:693 inc/customizer.php:1240
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:565 inc/customizer.php:694
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:566 inc/customizer.php:695 inc/customizer.php:1241
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:584
+msgid "Main Title Background Color"
+msgstr ""
+
+#: inc/customizer.php:603
+msgid "Main Title Height"
+msgstr ""
+
+#: inc/customizer.php:608
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:627 inc/customizer.php:1342
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer.php:649
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "Breadcrumbs Active Color"
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "Align Text"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Show or Hide the Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:742
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:760
+msgid "Theme Background Color"
+msgstr ""
+
+#: inc/customizer.php:761
+msgid "Changes the background of the content area"
+msgstr ""
+
+#: inc/customizer.php:781 inc/customizer.php:1283
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:801
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer.php:821
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:861 inc/customizer.php:1303
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer.php:881
+msgid "First Word from Widget Title"
+msgstr ""
+
+#: inc/customizer.php:900
+msgid "Theme Border Style"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer.php:906
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer.php:907
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer.php:926
+msgid "Display the Share Buttons"
+msgstr ""
+
+#: inc/customizer.php:948
+msgid "Share Tooltip Text"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Twitter Button Text"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Facebook Button Text"
+msgstr ""
+
+#: inc/customizer.php:1002
+msgid "Google+ Button Text"
+msgstr ""
+
+#: inc/customizer.php:1020
+msgid "LinkedIn Button Text"
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Position of the Page Title"
+msgstr ""
+
+#: inc/customizer.php:1046
+msgid "Show Actual Item Title"
+msgstr ""
+
+#: inc/customizer.php:1047
+msgid "Show Custom Title"
+msgstr ""
+
+#: inc/customizer.php:1064
+msgid "Gallery Main Title"
+msgstr ""
+
+#: inc/customizer.php:1082
+msgid "Gallery Sub Title"
+msgstr ""
+
+#: inc/customizer.php:1100
+msgid "Gallery Slug ( Changes the URL )"
+msgstr ""
+
+#: inc/customizer.php:1101
+msgid ""
+"If you see a 404 after, go to Settings - Permalinks and click on Save "
+"Changes"
+msgstr ""
+
+#: inc/customizer.php:1119
+msgid "Display the Gallery Navigation"
+msgstr ""
+
+#: inc/customizer.php:1142
+msgid "Previous Button Text"
+msgstr ""
+
+#: inc/customizer.php:1160
+msgid "Next Button Text"
+msgstr ""
+
+#: inc/customizer.php:1177
+msgid "Gallery Summary Link"
+msgstr ""
+
+#: inc/customizer.php:1195
+msgid "Gallery Summary Text"
+msgstr ""
+
+#: inc/customizer.php:1216
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:1234
+msgid "Single Product Pages Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1239
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer.php:1263
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/customizer.php:1264
+msgid ""
+"Select how many columns you want to display in the main footer. Select 0 to "
+"hide the top footer."
+msgstr ""
+
+#: inc/customizer.php:1323
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:1362
+msgid "Bottom Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:1382
+msgid "Bottom Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:1402
+msgid "Bottom Footer Link Color"
+msgstr ""
+
+#: inc/customizer.php:1421
+msgid "Bottom Footer Left Text"
+msgstr ""
+
+#: inc/customizer.php:1440
+msgid "Bottom Footer Middle Text"
+msgstr ""
+
+#: inc/customizer.php:1459
+msgid "Bottom Footer Right Text"
+msgstr ""
+
+#: inc/theme-filters.php:56
+msgid "READ MORE"
+msgstr ""
+
+#: inc/theme-filters.php:69
+msgid "Heading 1"
+msgstr ""
+
+#: inc/theme-filters.php:74
+msgid "Heading 2"
+msgstr ""
+
+#: inc/theme-filters.php:79
+msgid "Heading 3"
+msgstr ""
+
+#: inc/theme-filters.php:84
+msgid "Heading 4"
+msgstr ""
+
+#: inc/theme-filters.php:89
+msgid "Heading 5"
+msgstr ""
+
+#: inc/theme-filters.php:94
+msgid "Heading 6"
+msgstr ""
+
+#: inc/theme-filters.php:102
+msgid "QT: Custom Headings"
+msgstr ""
+
+#: inc/theme-filters.php:167
+msgid "White Widget Title"
+msgstr ""
+
+#: inc/theme-filters.php:170
+msgid "Use white colored widget title"
+msgstr ""
+
+#: inc/theme-filters.php:175
+msgid "Text Center"
+msgstr ""
+
+#: inc/theme-filters.php:178
+msgid "Center all text in widget"
+msgstr ""
+
+#: inc/theme-filters.php:183
+msgid "Border Widget"
+msgstr ""
+
+#: inc/theme-filters.php:186
+msgid "Set a border around the widget"
+msgstr ""
+
+#: inc/theme-filters.php:191
+msgid "Border Widget + Title"
+msgstr ""
+
+#: inc/theme-filters.php:194
+msgid "Set a border around the widget and use a slightly smaller title"
+msgstr ""
+
+#: inc/theme-filters.php:237
+msgid "Galleries"
+msgstr ""
+
+#: inc/theme-filters.php:239 inc/theme-filters.php:240
+#: inc/theme-filters.php:242
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:241
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:243
+msgid "View Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:244
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/theme-filters.php:245
+msgid "No galleries found"
+msgstr ""
+
+#: inc/theme-filters.php:246
+msgid "No galleries found in trash"
+msgstr ""
+
+#: inc/theme-filters.php:297
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-sidebars.php:12
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:14
+msgid "Sidebar on the blog page."
+msgstr ""
+
+#: inc/theme-sidebars.php:25
+msgid "Widget area in the Topbar for Contact Info"
+msgstr ""
+
+#: inc/theme-sidebars.php:32
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:34
+msgid "Sidebar on regular pages"
+msgstr ""
+
+#: inc/theme-sidebars.php:44
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:46
+msgid "Sidebar for the shop page"
+msgstr ""
+
+#: inc/theme-sidebars.php:63
+msgid ""
+"Change column amount at: Appearance &gt; Customize &gt; QT: Theme Options "
+"&gt; Footer."
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:17
+msgid "QT: Brochure"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:19
+msgid "Upload a Brochure"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:97 inc/widgets/widget-cta-button.php:92
+#: inc/widgets/widget-facebook.php:114 inc/widgets/widget-opening-hours.php:162
+#: inc/widgets/widget-testimonials.php:174
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:101 inc/widgets/widget-count-box.php:117
+#: inc/widgets/widget-cta-button.php:96 inc/widgets/widget-icon-box.php:92
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:102 inc/widgets/widget-count-box.php:117
+#: inc/widgets/widget-cta-button.php:96 inc/widgets/widget-icon-box.php:92
+msgid "See %s for all icon classes (example: fa-home)"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:106
+msgid "File"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:111 inc/widgets/widget-cta-button.php:100
+msgid "Text on Button"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:116
+msgid "Open link in new browser tab"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:17
+msgid "QT: CountTo Box"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:19
+msgid "Box with number counter"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:105
+msgid "Count Unit Before (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:109
+msgid "Count To Number"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:113
+msgid "Count Unit After (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:121 inc/widgets/widget-icon-box.php:96
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:17
+msgid "QT: Call To Action Banner"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:19
+msgid "A Call to Action Banner"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:109
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:114
+msgid "Text color:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:119
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:124
+msgid "Subtitle color:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:129
+msgid "Buttons:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:133
+msgid "See %s how to use all button attributes"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:137 inc/widgets/widget-icon-box.php:108
+msgid "Layout:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:139
+msgid "Inline"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:140
+msgid "Block"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:17
+msgid "QT: Call To Action Button"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:19
+msgid "CTA Button with a Icon"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:104 inc/widgets/widget-icon-box.php:104
+#: inc/widgets/widget-social-icons.php:141
+#: inc/widgets/widget-social-icons.php:145
+#: inc/widgets/widget-social-icons.php:149
+#: inc/widgets/widget-social-icons.php:153
+#: inc/widgets/widget-social-icons.php:157
+#: inc/widgets/widget-social-icons.php:161
+#: inc/widgets/widget-social-icons.php:165
+#: inc/widgets/widget-social-icons.php:169
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:109
+msgid "Open Links in New Browser Tab"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:17
+msgid "QT: Facebook"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:19
+msgid "Facebook Page Widget"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:118
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:122
+msgid "Height (in pixels)"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:126
+msgid "Width (in pixels)"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:131
+msgid "Hide cover photo in the header"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:135
+msgid "Show profile photos when friends like this"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:139
+msgid "Show posts from the Page's timeline"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:143
+msgid "Use the small header instead"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:17
+msgid "QT: Featured Page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:19
+msgid "Feature a page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:126
+#: inc/widgets/widget-recent-posts-block.php:263
+#: inc/widgets/widget-recent-posts-list.php:181
+msgid "Select a page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:136
+msgid "Link Text"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:141
+msgid ""
+"Image and text need to be edited on the page that is being featured. See %s "
+"how "
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:17
+msgid "QT: Google Map"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:19
+msgid "Display a Google Map"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:123
+msgid "You can find the latitude and longitude from %s "
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:127
+msgid "Latitude of the location:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:132
+msgid "Longitude of the location:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:137
+msgid "Title on Infobox: (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:142
+msgid "Map Zoom:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:151
+msgid "Map Type:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:161
+msgid "Map Style:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:170
+msgid "Height of map (in px):"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:175
+msgid "Custom Marker URL (Empty is default marker)"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:181
+msgid "Disable scrolling on mobile?"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:17
+msgid "QT: Icon Box"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:19
+msgid "Custom text with a Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:100
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:104
+msgid "Optional"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:110
+msgid "Smaller Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:111
+msgid "Big Icon"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:19
+msgid "QT: Opening Hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:21
+msgid "Opening Hours Widget"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:28
+msgid "Monday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:29
+msgid "Tuesday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:30
+msgid "Wednesday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:31
+msgid "Thursday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:32
+msgid "Friday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:33
+msgid "Saturday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:34
+msgid "Sunday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:144
+msgid "Opening Hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:152
+msgid "We are closed"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:158
+msgid "Leave both fields empty to display the closed message"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:169
+msgid "From"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:171
+msgid "To"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:177
+msgid "Separator between opening hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:182
+msgid "Display text on closed days"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:188
+msgid "Highlight closed text?"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:192
+msgid "Additional Information"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:193
+msgid ""
+"For example you could describe: lunchbreaks, holidays or vacantion "
+"information"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:17
+msgid "QT: Latest Blog Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:19
+msgid "Displays Recent Blog Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:57
+#: inc/widgets/widget-recent-posts-list.php:97
+msgid "More news"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:60
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:156
+msgid "No Posts Found"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:210
+#: inc/widgets/widget-recent-posts-list.php:147
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:215
+#: inc/widgets/widget-recent-posts-list.php:155
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:222
+#: inc/widgets/widget-recent-posts-list.php:162
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:228
+#: inc/widgets/widget-recent-posts-list.php:151
+msgid "Display number of posts:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:233
+msgid "Column in a row"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:243
+#: inc/widgets/widget-recent-posts-list.php:172
+msgid "Hide Sticky Posts?"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:247
+msgid "Read Post Text"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:252
+msgid "More News Text"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:257
+#: inc/widgets/widget-recent-posts-list.php:175
+msgid "More News Links to:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:17
+msgid "QT: Latest Blog Posts List"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:19
+msgid "Displays recent posts in a List"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:81 loop/blog/list.php:31
+#: single.php:40
+msgid "By"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:91 loop/blog/grid.php:65
+#: loop/blog/list.php:57 search.php:25 single.php:101
+msgid "Sorry, no results found."
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:167
+msgid "Skip amount of posts:"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:17
+msgid "QT: Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:19
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:138
+msgid "Open link in new browser tab?"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:17
+msgid "QT: Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:19
+msgid "Testomonial Widget"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:179
+msgid "Show amount of testimonials in a row"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:189
+msgid "Auto cycle carousel"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:191
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:192
+msgid "No"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:197
+msgid "Interval (in miliseconds)"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:203
+msgid "Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:207
+msgid "Quote"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:211
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:215
+msgid "Author Location"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:220
+msgid "Remove Testimonial"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:226
+msgid "Add New Testimonial"
+msgstr ""
+
+#: loop/blog/grid.php:48 loop/blog/list.php:47
+msgid "Read more %s"
+msgstr ""
+
+#: loop/blog/list.php:29
+msgid "Comments"
+msgstr ""
+
+#: parts/main-title.php:96
+msgid "Search Results For"
+msgstr ""
+
+#: parts/main-title.php:100
+msgid "Error 404"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "The Landscaper"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.qreativethemes.com/thelandscaper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Landscaper - A WordPress theme for lawn, landscaping and gardening "
+"companies, by QreativeThemes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QreativeThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/QreativeThemes/portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page Fullwidth Slider"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page Alternative Slider"
+msgstr ""
+
+#: comments.php:23
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-actions.php:28
+#. Translators: If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: single.php:88
+#. translators: after that comes pagination like 1, 2, 3 ... 10
+msgctxt "frontend"
+msgid "Pages:"
+msgstr ""
