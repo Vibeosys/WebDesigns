@@ -1063,6 +1063,9 @@ ul li span.menu-toggler {
     margin-right: 18px;
     display: inline-block;
 }
+.bbb-text{
+margin-top:1em;
+}
 .bbb-img{
     display: inline-block;
     width: 12em;
